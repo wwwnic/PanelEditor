@@ -1,0 +1,8 @@
+__pycache__/
+images/
+projects/
+previews/
+backups/
+build_knight_pony_story.py
+render_knight_pony_previews.py
+*.log
